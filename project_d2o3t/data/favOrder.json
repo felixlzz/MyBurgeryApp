@@ -1,0 +1,12 @@
+{"order": [
+    {
+        "price": 7,
+        "name": "Beef burger",
+        "type": "Beef"
+    },
+    {
+        "price": 8,
+        "name": "Salmon burger",
+        "type": "Salmon"
+    }
+]}

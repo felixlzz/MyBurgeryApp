@@ -1,0 +1,13 @@
+{"order": [
+    {
+        "price": 7,
+        "name": "Beef Burger",
+        "type": "Beef"
+    },
+    {
+        "size": "Regular",
+        "price": 0,
+        "name": "Fries",
+        "type": "Fries"
+    }
+]}
